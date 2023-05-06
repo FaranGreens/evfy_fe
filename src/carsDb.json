@@ -1,0 +1,314 @@
+{   
+    "mycarsDb" : [
+        {
+            "make": "Maruti Suzuki",
+            "model": "Fronx",
+            "year": 2023,
+            "mileage": 21,
+            "transmission": "automatic",
+            "engine": 1190,
+            "bhp":98.66,
+            "interior_color": "gray",
+            "fuel_type": "petrol",
+            "price": 800000,
+            "images":["https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/FRONX/9243/1673943130006/front-left-side-47.jpg?tr=w-456", "https://stimg.cardekho.com/images/carexteriorimages/930x620/Maruti/FRONX/9243/1673943130006/side-view-(left)-90.jpg"],
+            "colors":{
+                "white": "https://stimg.cardekho.com/images/car-images/930x620/Maruti/FRONX/9243/1674108902046/222_arctic-white_b7b9ba.jpg",
+                "red":"https://stimg.cardekho.com/images/car-images/930x620/Maruti/FRONX/9243/1674108445763/226_opulent-red_ee4641.jpg",
+                "blue": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/FRONX/9243/1673943130006/front-left-side-47.jpg?tr=w-456"
+            },
+            "page": "https://www.cardekho.com/maruti/fronx"
+            
+        },
+        
+        {
+            "make": "Tata",
+            "model": "Nexon",
+            "year": 2012,
+            "mileage": 24,
+            "transmission": "manual",
+            "engine": 1199,
+            "bhp": 114,
+            "interior_color": "grey",
+            "fuel_type": "diesel",
+            "price": 700000,
+            "images":[
+                "https://stimg.cardekho.com/images/carexteriorimages/630x420/Tata/Nexon/9977/1683047876204/front-left-side-47.jpg?tr=w-456", 
+                "https://stimg.cardekho.com/images/carexteriorimages/930x620/Tata/Nexon/10041/Tata-Nexon-XZA-Plus-LUXS-JET-Edition-Diesel-AMT/1683101692959/side-view-(left)-90.jpg"
+            ],
+            "colors":{
+                "white": "https://stimg.cardekho.com/images/car-images/930x620/Tata/Nexon/9977/1683096260828/225_calgary-white_d0d5db.jpg",
+                "red": "https://stimg.cardekho.com/images/car-images/930x620/Tata/Nexon/9977/1683096260828/224_flame-red_ea614f.jpg",
+                "blue": "https://stimg.cardekho.com/images/car-images/930x620/Tata/Nexon/9977/1683096260828/222_royal-blue_0b3e74.jpg",
+                "green" : "https://stimg.cardekho.com/images/car-images/930x620/Tata/Nexon/9977/1683096260828/226_foliage-green_657362.jpg"
+            },
+            "page": "https://www.cardekho.com/tata/nexon"
+        },
+
+        {
+            "make": "Tata",
+            "model": "Punch",
+            "year": 2021,
+            "mileage": 19,
+            "transmission": "automatic",
+            "engine": 1190,
+            "bhp": 117,
+            "interior_color": "black",
+            "fuel_type": "petrol",
+            "price": 6,
+            "images":[
+                "https://stimg.cardekho.com/images/carexteriorimages/630x420/Tata/Punch/7513/1633329515070/front-left-side-47.jpg?imwidth=1000&impolicy=resize", 
+                ""
+            ],
+            "colors":{
+                "white": "https://stimg.cardekho.com/images/car-images/930x620/Tata/Punch/7513/1633414521534/222_orcus-white_cfd7da.jpg",
+                "red": "https://stimg.cardekho.com/images/car-images/930x620/Tata/Punch/7513/1633414521534/227_calypso-red_780d07.jpg",
+                "blue": "https://stimg.cardekho.com/images/car-images/930x620/Tata/Punch/9330/1665128675134/221_tornado-blue_003b77.jpg",
+                "green" : "https://stimg.cardekho.com/images/car-images/930x620/Tata/Punch/9330/1665128675134/228_foliage-green_293029.jpg"
+            },
+            "page": "https://www.cardekho.com/tata/punch"
+        },
+
+        {
+            "make": "Tata",
+            "model": "Altroz",
+            "year": 2017,
+            "mileage": 18,
+            "transmission": "automatic",
+            "engine": 1497,
+            "bhp": 86,
+            "interior_color": "grey",
+            "fuel_type": "petrol",
+            "price": 660000,
+            "images":[
+                "https://stimg.cardekho.com/images/carexteriorimages/630x420/Tata/Altroz/7247/1676357979641/front-left-side-47.jpg?imwidth=1000&impolicy=resize", 
+                ""
+            ],
+            "colors":{
+                "white": "https://stimg.cardekho.com/images/car-images/930x620/Tata/Altroz/7247/1614334136082/225_avenue-white_e4e4e6vv.jpg",
+                "red": "https://stimg.cardekho.com/images/car-images/930x620/Tata/Altroz/7247/1614334136082/223_downtown-red_da303e.jpg",
+                "blue": "https://stimg.cardekho.com/images/car-images/930x620/Tata/Altroz/7247/1614334136082/226_harbour-blue_014380.jpg",
+                "black" : "https://stimg.cardekho.com/images/car-images/930x620/Tata/Altroz/8494/1627641196041/221_PREMIUM_COSMO-DARK_1e252d.jpg"
+            },
+            "page": ""
+        },
+
+        {
+            "make": "Hyundai",
+            "model": "Creta",
+            "year": 2015,
+            "mileage": 17,
+            "transmission": "manual",
+            "engine": 1353,
+            "bhp": 130,
+            "interior_color": "white",
+            "fuel_type": "diesel",
+            "price": 1100000,
+            "images":[
+                "https://stimg.cardekho.com/images/carexteriorimages/630x420/Hyundai/Creta/7695/1651645683867/front-left-side-47.jpg?tr=w-456", 
+                "https://stimg.cardekho.com/images/carexteriorimages/930x620/Hyundai/Creta/6775/1584360708758/front-view-118.jpg"
+            ],
+            "colors":{
+                "silver": "https://stimg.cardekho.com/images/car-images/930x620/Hyundai/Creta/7695/1651738469758/222_Typhoon-Silver_818897.jpg",
+                "white": "https://stimg.cardekho.com/images/car-images/930x620/Hyundai/Creta/7695/1651738469758/224_Polar-white-with-phantom-black-roof_e5e9ec.jpg",
+                "blue": "https://stimg.cardekho.com/images/car-images/930x620/Hyundai/Creta/7695/1651738469758/226_Denim-Blue_062a5a.jpg",
+                "black" : "https://stimg.cardekho.com/images/car-images/930x620/Hyundai/Creta/7695/1651738469758/225_Phantom-Black_000000.jpg"
+            },
+            "page": "https://www.cardekho.com/hyundai/creta"
+        },
+
+        {
+            "make": "Hyundai",
+            "model": "Verna",
+            "year": 2011,
+            "mileage": 19,
+            "transmission": "automatic",
+            "engine": 1482,
+            "bhp": 113,
+            "interior_color": "grey",
+            "fuel_type": "petrol",
+            "price": 1200000,
+            "images":[
+                "https://stimg.cardekho.com/images/carexteriorimages/630x420/Hyundai/Verna/8703/1679389180298/front-left-side-47.jpg?tr=w-456", 
+                "https://stimg.cardekho.com/images/carexteriorimages/930x620/Hyundai/Verna/8703/1679389180298/rear-view-119.jpg"
+            ],
+            "colors":{
+                "white": "https://stimg.cardekho.com/images/car-images/930x620/Hyundai/Verna/8703/1679389577362/227_typhoon-silver_adb7c1.jpg",
+                "red": "https://stimg.cardekho.com/images/car-images/930x620/Hyundai/Verna/8703/1679389577362/228_fiery-red_750104.jpg",
+                "blue": "https://stimg.cardekho.com/images/car-images/930x620/Hyundai/Verna/8703/1679389577362/221_starry-night_2e425c.jpg",
+                "green" : "https://stimg.cardekho.com/images/car-images/930x620/Hyundai/Verna/8703/1679389577362/225_abyss-black_08080c.jpg"
+            },
+            "page": "https://www.cardekho.com/hyundai/verna"
+        },
+
+        {
+            "make": "Kia",
+            "model": "Seltos",
+            "year": 2019,
+            "mileage": 20,
+            "transmission": "automatic",
+            "engine": 1493,
+            "bhp": 114,
+            "interior_color": "white",
+            "fuel_type": "diesel",
+            "price": 1200000,
+            "images":[
+                "https://stimg.cardekho.com/images/carexteriorimages/630x420/Kia/Seltos/6226/1679395459776/front-left-side-47.jpg?tr=w-456", 
+                "https://stimg.cardekho.com/images/carexteriorimages/930x620/Kia/Seltos/6226/1679395459776/front-view-118.jpg"
+            ],
+            "colors":{
+                "white": "https://stimg.cardekho.com/images/car-images/930x620/Kia/Seltos/6226/1678431668137/229_Glacier-White-Pearl_dfe7e9.jpg",
+                "red": "https://stimg.cardekho.com/images/car-images/930x620/Kia/Seltos/6226/1678431668137/228_Intense-Red_711d27.jpg",
+                "blue": "https://stimg.cardekho.com/images/car-images/930x620/Kia/Seltos/6226/1678431668137/221_Imperial-Blue_21243d.jpg",
+                "black" : "https://stimg.cardekho.com/images/car-images/930x620/Kia/Seltos/6226/1678431668137/226_Aurora-Black-Pearl_242427.jpg"
+            },
+            "page": "https://www.cardekho.com/kia/seltos"
+        },
+
+        {
+            "make": "Kia",
+            "model": "Carnival",
+            "year": 2023,
+            "mileage": 15,
+            "transmission": "automatic",
+            "engine": 2199,
+            "bhp": 198,
+            "interior_color": "red",
+            "fuel_type": "diesel",
+            "price": 3100000,
+            "images":[
+                "https://stimg.cardekho.com/images/carexteriorimages/630x420/Kia/Carnival/7341/1677920139467/front-left-side-47.jpg?tr=w-456", 
+                "https://stimg.cardekho.com/images/carexteriorimages/930x620/Kia/Carnival/7341/1649825407650/front-view-118.jpg"
+            ],
+            "colors":{
+                "white": "https://stimg.cardekho.com/images/car-images/930x620/Kia/Carnival/7343/1581756941637/Kia-Carnival-Glacier-White-Pearl-e0e0e0.jpg",
+                "silver": "https://stimg.cardekho.com/images/car-images/930x620/Kia/Carnival/7343/1581756941637/Kia-Carnival-Steel-Silver-c3c3c3.jpg",
+                "blue": "",
+                "black" : "https://stimg.cardekho.com/images/car-images/930x620/Kia/Carnival/7343/1581756941637/Kia-Carnival-Glacier--Aurora-Black-Pearl-2e2e2e.jpg"
+            },
+            "page": "https://www.cardekho.com/kia/carnival"
+        },
+
+        {
+            "make": "Mahindra",
+            "model": "XUV",
+            "year": 2014,
+            "mileage": 12,
+            "transmission": "petrol",
+            "engine": 2000,
+            "bhp": 153,
+            "interior_color": "blue",
+            "fuel_type": "petrol",
+            "price": 1500000,
+            "images":[
+                "https://stimg.cardekho.com/images/carexteriorimages/630x420/Mahindra/XUV700/8629/1659345807519/front-left-side-47.jpg?tr=w-456", 
+                "https://stimg.cardekho.com/images/carexteriorimages/930x620/Mahindra/XUV700/6806/1631863538634/front-view-118.jpg"
+            ],
+            "colors":{
+                "white": "https://stimg.cardekho.com/images/car-images/930x620/Mahindra/XUV700/6806/1631863874753/223_white_ffffff.jpg",
+                "red": "https://stimg.cardekho.com/images/car-images/930x620/Mahindra/XUV700/6806/1631863874753/222_red_a10000.jpg",
+                "blue": "https://stimg.cardekho.com/images/car-images/930x620/Mahindra/XUV700/6806/1631863874753/221_electric-blue_2224ba.jpg",
+                "black" : "https://stimg.cardekho.com/images/car-images/930x620/Mahindra/XUV700/8628/1668510861831/224_Midnight-Black_182044.jpg"
+            },
+            "page": "https://www.cardekho.com/mahindra/xuv700"
+        },
+
+        {
+            "make": "Mahindra",
+            "model": "Thar",
+            "year": 2020,
+            "mileage": 13,
+            "transmission": "manual",
+            "engine": 1497,
+            "bhp": 120,
+            "interior_color": "grey",
+            "fuel_type": "diesel",
+            "price": 1300000,
+            "images":[
+                "https://stimg.cardekho.com/images/carexteriorimages/630x420/Mahindra/Thar/8076/1601635839903/front-left-side-47.jpg?tr=w-456", 
+                "https://stimg.cardekho.com/images/carexteriorimages/930x620/Mahindra/Thar/8076/1601635839903/front-view-118.jpg"
+            ],
+            "colors":{
+                "white": "https://stimg.cardekho.com/images/car-images/930x620/Mahindra/Thar/9532/1673847269565/222_everest-white_ffffff.jpg",
+                "red": "https://stimg.cardekho.com/images/car-images/930x620/Mahindra/Thar/9532/1673847269565/224_red-rage_a1080d.jpg",
+                "grey": "https://stimg.cardekho.com/images/car-images/930x620/Mahindra/Thar/9532/1673847269565/224_galaxy-gray_2f2f35.jpg",
+                "black" : "https://stimg.cardekho.com/images/car-images/930x620/Mahindra/Thar/9532/1673847269565/225_nepoli-black_00000.jpg"
+            },
+            "page": "https://www.cardekho.com/mahindra/thar"
+        },
+
+        {
+            "make": "Maruti Suzuki",
+            "model": "Baleno",
+            "year": 2015,
+            "mileage": 24,
+            "transmission": "manual",
+            "engine": 1197,
+            "bhp": 79,
+            "interior_color": "grey",
+            "fuel_type": "petrol",
+            "price": 700000,
+            "images":[
+                "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Baleno/8674/1675858584706/front-left-side-47.jpg?tr=w-456", 
+                "https://stimg.cardekho.com/images/carexteriorimages/930x620/Maruti/Baleno/8674/1645684614616/front-view-118.jpg"
+            ],
+            "colors":{
+                "white": "https://stimg.cardekho.com/images/car-images/930x620/Maruti/Baleno/8674/1645615419425/224_arctic-white_ffffff.jpg",
+                "red": "https://stimg.cardekho.com/images/car-images/930x620/Maruti/Baleno/8674/1645615419425/225_opulent-red_8e1c26.jpg",
+                "blue": "https://stimg.cardekho.com/images/car-images/930x620/Maruti/Baleno/8674/1645615419425/221_nexa-blue_384f82.jpg",
+                "grey" : "https://stimg.cardekho.com/images/car-images/930x620/Maruti/Baleno/8674/1645615419425/226_granduer-grey_484546.jpg"
+            },
+            "page": "https://www.cardekho.com/carmodels/Maruti/Maruti_Baleno"
+        },
+
+        {
+            "make": "Maruti Suzuki",
+            "model": "Swift",
+            "year": 2009,
+            "mileage": 23,
+            "transmission": "automatic",
+            "engine": 1197,
+            "bhp": 77,
+            "interior_color": "white",
+            "fuel_type": "petrol",
+            "price": 600000,
+            "images":[
+                "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Swift/7820/1675862859794/front-left-side-47.jpg?tr=w-456", 
+                "https://stimg.cardekho.com/images/carexteriorimages/930x620/Maruti/Swift/8378/Maruti-Swift-VXI/1670933646275/rear-left-view-121.jpg"
+            ],
+            "colors":{
+                "white": "https://stimg.cardekho.com/images/car-images/930x620/Maruti/Swift/7820/1614160452458/226_Pearl-Arctic-White_d1d1d1.jpg",
+                "red": "https://stimg.cardekho.com/images/car-images/930x620/Maruti/Swift/7820/1614160452458/222_Solid-Fire-Red_db2825.jpg",
+                "blue": "https://stimg.cardekho.com/images/car-images/930x620/Maruti/Swift/7820/1614160452458/224_Pearl-Metallic-Midnight-Blue_0e376c.jpg",
+                "black" : "https://stimg.cardekho.com/images/car-images/930x620/Maruti/Swift/7820/1679899447655/221_pearl-midnight-black_000000.jpg",
+                "silver" : "https://stimg.cardekho.com/images/car-images/930x620/Maruti/Swift/7820/1614160452458/228_Metallic-Silky-Silver_cccccc.jpg"
+            },
+            "page": "https://www.cardekho.com/maruti/swift"
+        },
+
+        {
+            "make": "Skoda",
+            "model": "Slavia",
+            "year": 2015,
+            "mileage": 18,
+            "transmission": "automatic",
+            "engine": 999,
+            "bhp": 114,
+            "interior_color": "black",
+            "fuel_type": "petrol",
+            "price": 1200000,
+            "images":[
+                "https://stimg.cardekho.com/images/carexteriorimages/630x420/Skoda/Slavia/9813/1681805581204/front-left-side-47.jpg?tr=w-456", 
+                "https://stimg.cardekho.com/images/carexteriorimages/930x620/Skoda/Slavia/9813/1681805581204/grille-97.jpg"
+            ],
+            "colors":{
+                "white": "",
+                "red": "https://stimg.cardekho.com/images/car-images/930x620/Skoda/Slavia/9813/1681809102154/222_tornado-red_b5011a.jpg",
+                "blue": "https://stimg.cardekho.com/images/car-images/930x620/Skoda/Slavia/7257/1680595532197/221_crystal-blue-with-carbon-steel-roof_096bb8.jpg",
+                "black" : "",
+                "silver" : "https://stimg.cardekho.com/images/car-images/930x620/Skoda/Slavia/9813/1681809102154/223_briliant-silver_b9b9b9.jpg"
+            },
+            "page": "https://www.cardekho.com/carmodels/Skoda/Skoda_Slavia"
+        }
+    ]
+}

@@ -16,7 +16,7 @@ const Register = () => {
 
     if (res.data) {
       console.log(res.data);
-      if (res.data.data.message === "Registered successfully.") {
+      if (res.data) {
         alert("Successful, please login");
         navigate("/login");
       }

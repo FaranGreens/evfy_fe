@@ -1,7 +1,9 @@
 import axios from "axios";
+import config from "../config";
+
 export const registerUser = async(user) => {
     try {
-        let res = await axios.post('http://localhost:8080/user/register', JSON.stringify(user), {
+        let res = await axios.post(config.ip+'/user/register', JSON.stringify(user), {
             headers:{
                 "Content-Type":"application/json"
             }

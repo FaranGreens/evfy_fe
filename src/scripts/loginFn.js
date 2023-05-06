@@ -1,10 +1,11 @@
 import axios from "axios";
+import config from "../config";
 
 export const loginFn = async (user) => {
   // console.log(user);
   try {
     let res = await axios.post(
-      "http://localhost:8080/user/login",
+      `${config.ip}/user/login`,
       JSON.stringify(user),
       {
         headers: {

@@ -1,5 +1,7 @@
 import { useEffect, useState } from "react";
 import Pagination from "../components/Pagination";
+import config from "../config";
+
 
 const Search = () => {
   const [text, setText] = useState("");
@@ -10,7 +12,7 @@ const Search = () => {
     setText(e.target.value);
   };
   const handleSearch = async () => {
-    let res = fetch(`http://localhost:8080/cars?q=${text}&page=${page}`)
+    let res = fetch(`${config.ip}/cars?q=${text}&page=${page}`)
       .then((d) => d.json())
       .then((data) => {
         // console.log(data);

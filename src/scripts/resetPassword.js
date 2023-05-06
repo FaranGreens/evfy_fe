@@ -1,9 +1,10 @@
 import axios from 'axios';
+import config from "../config";
 
 export const request_reset_link =async(email)=>{
     // console.log(email);
     try {
-        let res = await axios.post('http://localhost:8080/user/request-reset-link', 
+        let res = await axios.post(`${config.ip}/user/request-reset-link`, 
         JSON.stringify(email),
         {
         headers:{
